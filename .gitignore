@@ -1,0 +1,10 @@
+# секреты
+.env
+
+# артефакты сборки Foundry
+/out/
+/cache/
+/broadcast/
+
+# прочее
+.DS_Store
